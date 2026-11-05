@@ -1,0 +1,17 @@
+# binarios
+benchmark/bs_seq
+benchmark/dc_mpi
+benchmark/dc_artigo_mpi
+
+# material de terceiros (artigo com direitos autorais e clone do repositorio
+# de referencia); links em enunciado.md
+docs/refs/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Python
+__pycache__/
